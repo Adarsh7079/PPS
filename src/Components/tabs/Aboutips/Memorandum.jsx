@@ -34,7 +34,7 @@ const Memorandum = () => {
   return (
     <div>
       <section className="bg-[url('https://indianpsychiatricsociety.org/wp-content/uploads/2019/12/9-background.jpg')]  w-full h-[300px] bg-cover">
-        <div className="flex flex-col justify-center items-center gap-5  t ">
+        <div className="flex flex-col justify-center items-center gap-5 ">
           <img
             src="https://indianpsychiatricsociety.org/wp-content/uploads/2021/09/handshake.svg"
             alt=""
